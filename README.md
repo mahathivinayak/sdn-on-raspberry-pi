@@ -163,7 +163,7 @@ python3 -m sdnlab.flowctl unblock --id block-h1-h3
 
 ## Results
 
-**Example output** (blocking all ICMP with `src=h1, dst=h3`):
+**Expected output** (blocking all ICMP with `src=h1, dst=h3`):
 
 ```
 AFTER rule
